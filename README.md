@@ -44,7 +44,6 @@ git clone https://gitlab.com/T0XIC-CYBER/T-Banner
 ![20200628_143410](https://user-images.githubusercontent.com/53935554/85947381-d9687f00-b939-11ea-8d58-c5291cdc4f77.jpg)
 
 
-
 ![20200628_143539](https://user-images.githubusercontent.com/53935554/85947440-3bc17f80-b93a-11ea-905d-02638016d07a.jpg)
 
 
